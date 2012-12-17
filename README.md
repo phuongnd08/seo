@@ -1,0 +1,1 @@
+This small piece of code is to generate a combination of spam collection that includes Names, Emails, Websites, and Contents following the Wordpress format (it still works with other kinds of comment machenisms though). The collection is held in XML file which is easy for content modification later.
