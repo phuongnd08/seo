@@ -1,0 +1,25 @@
+<campaign name='wordpress'>
+	<username>Tue</username>
+	<username>Phuong</username>
+	<mail>bomot114@yahoo.com</mail>
+	<mail>thientai@xyz.com</mail>
+	<web>tienganhinfo.com</web>
+	<web>giasudientu.com</web>
+	<sense>
+		<word>a1</word>
+		<word>a2</word>
+		<word>a3</word>
+	</sense>
+	<sense>
+		<word>b1</word>
+		<word>b2</word>
+	</sense>
+	<sense>
+		<word>c1</word>
+		<word>c2</word>
+		<word>c3</word>
+	</sense>
+	<sense>
+		<word>d</word>
+	</sense>
+</campaign>
