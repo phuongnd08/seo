@@ -1,0 +1,36 @@
+<campaign name='wordpress'>
+	<username>Tue</username>
+	<username>Phuong</username>
+	<mail>bomot114@yahoo.com</mail>
+	<mail>thientai@xyz.com</mail>
+	<web>tienganhinfo.com</web>
+	<web>giasudientu.com</web>
+	<sense>
+		<word>Hiện tại</word>
+		<word>Vào lúc này</word>
+		<word>Những ngày này</word>
+	</sense>
+	<sense>
+		<word>có</word>
+		<word>xuất hiện</word>
+	</sense>
+	<sense>
+		<word>website</word>
+		<word>trang web</word>
+		<word>trang mạng</word>
+		<word>ứng dụng</word>
+		<word>ứng dụng mạng</word>
+	</sense>
+	<sense>
+		<word>học tiếng Anh</word>
+		<word>học Anh ngữ]</word>
+	</sense>
+	<sense>
+		<word>online</word>
+		<word>trực tuyến</word>
+	</sense>
+	<sense>
+		<word>Giasudientu.com</word>
+		<word>Spamdientu.com</word>
+	</sense>			
+</campaign>

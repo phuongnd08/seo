@@ -73,5 +73,16 @@ class SpamCombination
 		contentIndex = totalNum	
 		return getCombination nameIndex,mailIndex,webIndex,contentIndex
 	end	
+	def getCombinationSize
+		nameSize = @spamXML['username'].size
+		mailSize = @spamXML['mail'].size
+		webSize  = @spamXML['web'].size
+        wordSize = 1
+		@spamXML['sense'].each do |aSense|
+			wordSize *= aSense['word'].size
+		end
+		return nameSize*mailSize*webSize*wordSize
+	end
+
 
 end
